@@ -1,0 +1,74 @@
+.grid{
+display: flex;
+flex-direction: column;
+background: linear-gradient(114.04deg, rgba(6,59,55,0.6)
+20%, rgba(66,59,55,0)34.7%,),linear-gradient(138.58deg, rgba(59,43,30,0.37)43.59%, #fea767 112.60%);
+flex: 1;
+border-radius: 10px;
+padding: 55px 25px 25px ;
+width: 500px;
+}
+.lg-value{
+    margin-top: 8px;
+    margin-bottom: 16px;
+   color: bisque;
+}
+.card-wrapper{
+    display: flex;
+}
+.pin{
+    font-size: 32px;
+    margin-right: 8px;
+    color: white;
+}
+
+.logo-shpe1, .logo-shpe2{
+    width: 36px;
+    height: 36px;
+    border-radius: 100%;
+}
+.logo-shpe1{
+    background-color: orange;
+    margin-right: -15px;
+    z-index: 0;
+}
+.logo-shpe2{
+    background-color: yellow;
+}
+.pin{
+    color: aliceblue;
+    cursor: pointer;
+}
+.dre{
+    font-size: 16px;
+    color: white;
+    font-weight: 800;
+
+}
+.pri {
+    transition: transform 0.3s ease; /* Добавляем плавный переход для анимации */
+  }
+  
+  /* Стиль поворота иконки при наведении */
+  .dre:hover .pri {
+    transform: rotate(360deg); 
+    color:#5828E0 ;
+  }
+  .dre:hover {
+    color:rgb(20, 19, 56)
+  }
+  .dre .pri{
+    font-size: 16px;
+  }
+  .experity-text{
+    color: white;
+  }
+  .text-sm{
+    cursor: pointer;
+    color: #5828E0;
+    font-size: 16px;
+    font-weight: 600;
+  }
+   .text-sm:hover{
+    color: #26214D;
+   }

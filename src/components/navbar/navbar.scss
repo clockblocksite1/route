@@ -1,0 +1,53 @@
+.navbar {
+  flex: 1;
+  border: 0.5px solid rgb(230, 227, 227);
+  min-height: 170vh;
+  background-color: rgb(12, 12, 114) rgb(150, 150, 165); 
+}
+
+.top {
+  height: 50px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.top .logo {
+  color: #6439ff;
+  font-size: 20px;
+  font-weight: bold;
+  color: white;
+}
+
+.top hr {
+  height: 0;
+  border: 0.5px solid;
+}
+
+.center {
+  padding-left: 20px;
+}
+
+.center span {
+  margin: 0;
+  padding: 0;
+  gap: 20px;
+  display: flex;
+  padding-top: 15px;
+  color: beige;
+}
+span:hover {
+  background-color: #6439ff; /* Изменение фона на синий при наведении */
+  color: red; /* Изменение цвета текста на красный при наведении */
+  transition: all 2s;
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+}
+.active {
+  background-color: #6439ff; /* фон активной ссылки */
+  color: red ;
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+}

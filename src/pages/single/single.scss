@@ -1,0 +1,190 @@
+.widget {
+    display: flex;
+    flex: 1;
+    
+    justify-content: space-between;
+    -webkit-box-shadow: 2px 4px 10px 1px rgba(27, 11, 241, 0.47);
+    box-shadow: 2px 4px 10px 1px rgba(201, 201, 201, 0.47);
+    background: linear-gradient(106.83deg, #1e00ff 5.59%, #5828E0 90.5%),
+    linear-gradient(0deg, #26214D, #26214D);
+    border-radius: 10px;
+   height: 600px;
+   width: 400px;
+   margin-left: 50px;
+}
+.cot{
+    font-size: 25px;
+    font-weight: 900;
+    color: white;
+    margin-left: 30px;
+    margin-top: 30px;
+}
+.coins{
+    font-size: 18px;
+    color: white;
+   margin-top: 60px;
+    position: absolute;
+    margin-left: 30px;
+}
+.file{
+    position: absolute;
+    color: white;
+    margin-top: 110px;
+    margin-left: 30px;
+}
+.em{
+    position: absolute;
+    color: white;
+    margin-top: 150px;
+    margin-left: 30px;
+}
+.os{
+    position: absolute;
+    color: white;
+    margin-top: 190px;
+    margin-left: 30px;
+}
+.bram{
+    position: absolute;
+    margin-top: 500px;
+    margin-left: 50px;
+    height: 56px;
+    width: 300px;
+    color: #5828E0;
+    font-size: 16px;
+    font-weight: 300;
+    border-radius: 200px;
+    border: none;
+    cursor: pointer;
+}
+.bram:hover {
+    background-color:  rgb(20, 19, 56);
+    transition: all 1s;
+ }
+ .rom {
+    display: flex;
+    flex: 1;
+    justify-content: space-between;
+    -webkit-box-shadow: 2px 4px 10px 1px rgba(27, 11, 241, 0.47);
+    box-shadow: 2px 4px 10px 1px rgba(201, 201, 201, 0.47);
+    background: linear-gradient(106.83deg, #5828E0 5.59%, #973f3f 90.5%),
+    linear-gradient(0deg, #26214D, #26214D);
+    border-radius: 10px;
+   height: 600px;
+   width: 400px;
+   margin-left: 450px;
+   position: absolute;
+   
+}
+.run{
+    font-size: 25px;
+    font-weight: 900;
+    color: white;
+    margin-left: 30px;
+    margin-top: 30px;
+
+}
+.git{
+    font-size: 18px;
+    color: white;
+   margin-top: 60px;
+    position: absolute;
+    margin-left: 30px;
+}
+.get{
+    position: absolute;
+    color: white;
+    margin-top: 110px;
+    margin-left: 30px;
+}
+.gut{
+    position: absolute;
+    color: white;
+    margin-top: 150px;
+    margin-left: 30px;
+}
+.stream{
+    position: absolute;
+    color: white;
+    margin-top: 190px;
+    margin-left: 30px;
+    
+}
+.boost{
+color: white;
+position: absolute;
+margin-left: 30px;
+margin-top: 230px;
+}
+.voz{
+    position: absolute;
+    margin-left: 30px;
+    color: white;
+    margin-top: 270px;
+}
+.nit{
+    position: absolute;
+    margin-top: 500px;
+    margin-left: 50px;
+    height: 56px;
+    width: 300px;
+    color: #5828E0;
+    font-size: 16px;
+    font-weight: 300;
+    border-radius: 200px;
+    border: none;
+    cursor: pointer;
+}
+.nit:hover {
+    background-color:  rgb(20, 19, 56);
+    transition: all 1s;
+}
+.rog{
+    display: flex;
+    flex: 1;
+    
+    justify-content: space-between;
+    -webkit-box-shadow: 2px 4px 10px 1px rgba(27, 11, 241, 0.47);
+    box-shadow: 2px 4px 10px 1px rgba(201, 201, 201, 0.47);
+    background: linear-gradient(106.83deg, #1e00ff 5.59%, #5828E0 90.5%),
+    linear-gradient(0deg, #26214D, #26214D);
+    border-radius: 10px;
+   position: absolute;
+   height: 600px;
+   width: 400px;
+   
+   margin-top: 700px;
+   
+}
+.gat{
+    margin-left: 10px;
+}
+.hark{
+    font-size: 25px;
+    font-weight: 900;
+    color: white;
+    margin-left: 30px;
+    margin-top: 30px;
+}
+.god{
+    font-size: 18px;
+    color: white;
+   margin-top: 60px;
+    position: absolute;
+    margin-left: 30px;
+}
+.reg{
+    display: flex;
+    flex: 1;
+    justify-content: space-between;
+    -webkit-box-shadow: 2px 4px 10px 1px rgba(27, 11, 241, 0.47);
+    box-shadow: 2px 4px 10px 1px rgba(201, 201, 201, 0.47);
+    background: linear-gradient(106.83deg, #5828E0 5.59%, #973f3f 90.5%),
+    linear-gradient(0deg, #26214D, #26214D);
+    border-radius: 10px;
+   height: 600px;
+   width: 400px;
+ margin-top: 700px;
+ margin-left: 450px;
+ position: absolute;
+}
